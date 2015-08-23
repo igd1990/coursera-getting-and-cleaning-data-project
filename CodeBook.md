@@ -50,41 +50,42 @@ Measurements
 * fBodyAccMeanY
 * fBodyAccMeanZ
 * fBodyAccStdX
-fBodyAccStdY
-fBodyAccStdZ
-fBodyAccMeanFreqX
-fBodyAccMeanFreqY
-fBodyAccMeanFreqZ
-fBodyAccJerkMeanX
-fBodyAccJerkMeanY
-fBodyAccJerkMeanZ
-fBodyAccJerkStdX
-fBodyAccJerkStdY
-fBodyAccJerkStdZ
-fBodyAccJerkMeanFreqX
-fBodyAccJerkMeanFreqY
-fBodyAccJerkMeanFreqZ
-fBodyGyroMeanX
-fBodyGyroMeanY
-fBodyGyroMeanZ
-fBodyGyroStdX
-fBodyGyroStdY
-fBodyGyroStdZ
-fBodyGyroMeanFreqX
-fBodyGyroMeanFreqY
-fBodyGyroMeanFreqZ
-fBodyAccMagMean
-fBodyAccMagStd
-fBodyAccMagMeanFreq
-fBodyBodyAccJerkMagMean
-fBodyBodyAccJerkMagStd
-fBodyBodyAccJerkMagMeanFreq
-fBodyBodyGyroMagMean
-fBodyBodyGyroMagStd
-fBodyBodyGyroMagMeanFreq
-fBodyBodyGyroJerkMagMean
-fBodyBodyGyroJerkMagStd
-fBodyBodyGyroJerkMagMeanFreq
+* fBodyAccStdY
+* fBodyAccStdZ
+* fBodyAccMeanFreqX
+* fBodyAccMeanFreqY
+* fBodyAccMeanFreqZ
+* fBodyAccJerkMeanX
+* fBodyAccJerkMeanY
+* fBodyAccJerkMeanZ
+* fBodyAccJerkStdX
+* fBodyAccJerkStdY
+* fBodyAccJerkStdZ
+* fBodyAccJerkMeanFreqX
+* fBodyAccJerkMeanFreqY
+* fBodyAccJerkMeanFreqZ
+* fBodyGyroMeanX
+* fBodyGyroMeanY
+* fBodyGyroMeanZ
+* fBodyGyroStdX
+* fBodyGyroStdY
+* fBodyGyroStdZ
+* fBodyGyroMeanFreqX
+* fBodyGyroMeanFreqY
+* fBodyGyroMeanFreqZ
+* fBodyAccMagMean
+* fBodyAccMagStd
+* fBodyAccMagMeanFreq
+* fBodyBodyAccJerkMagMean
+* fBodyBodyAccJerkMagStd
+* fBodyBodyAccJerkMagMeanFreq
+* fBodyBodyGyroMagMean
+* fBodyBodyGyroMagStd
+* fBodyBodyGyroMagMeanFreq
+* fBodyBodyGyroJerkMagMean
+* fBodyBodyGyroJerkMagStd
+*fBodyBodyGyroJerkMagMeanFreq
+
 Activity Labels
 
 WALKING (value 1): subject was walking during the test
